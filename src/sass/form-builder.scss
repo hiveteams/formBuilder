@@ -1,11 +1,6 @@
 @import 'base/variables';
 @import 'base/font';
 @import 'base/mixins';
-
-.form-wrap, .form-builder {
-  @import 'base/bs';
-}
-
 @import 'base/animation';
 @import 'controls';
 
